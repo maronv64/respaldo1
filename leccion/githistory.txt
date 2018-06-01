@@ -1,0 +1,512 @@
+    1  ls
+    2  ifconfig 
+    3  sudo
+    4  sudo su
+    5  sudo ssu
+    6  yum install -y unrar
+    7  sudo su
+    8  rm -rf wps_i18n-master-ES/
+    9  rm -rf rpmfusion-*
+   10  ifconfig
+   11  sudo su
+   12  touch sql.txt
+   13  chmod +x netbeans-8.2-linux.sh 
+   14  ./netbeans-8.2-linux.sh 
+   15  sudo su
+   16  cd ..
+   17  chmod +x jdk-8u111-nb-8_2-linux-x64.sh 
+   18  ./jdk-8u111-nb-8_2-linux-x64.sh 
+   19  chmod +x netbeans-8.2-linux.sh 
+   20  ./netbeans-8.2-linux.sh 
+   21  ./jdk-8u111-nb-8_2-linux-x64.sh 
+   22  ./netbeans-8.2-linux.sh 
+   23  chmod +x uninstall.sh 
+   24  ./uninstall.sh 
+   25  chmod +x netbeans-8.2-linux.sh 
+   26  ./netbeans-8.2-linux.sh 
+   27  sudo su
+   28  exit
+   29  ./netbeans-8.2-linux.sh 
+   30  rm -rf basura/
+   31  rm -rf lib_jasperreport
+   32  rm -rf TransmissionDescargas/
+   33  cd /home/
+   34  ls
+   35  cd maronvz64/
+   36  sudo su
+   37  date >> historialnormal
+   38  history >> historialnormal
+   39  sudo su
+   40  yum clean 
+   41  dnf clean 
+   42  exit
+   43  sudo su
+   44  ping www.hola.com
+   45  truncate www.hola.com
+   46  ./sublime_text&
+   47  sudo su
+   48  exit
+   49  sudo ./RosaImageWriter 
+   50  sudo su
+   51  ping www.hola.com
+   52  sudo su
+   53  ping www.hola.com
+   54  ls
+   55  ping www.hola.com
+   56  sudo su
+   57  clear
+   58  ls
+   59  g++ hola.c
+   60  yum -y install g++
+   61  sudo su
+   62  eit
+   63  exit
+   64  top
+   65  exit
+   66  rm -rf Sword\ Art\ Online\ Capitulo\ 25\ FINAL\ Sub\ Español\ \(Low\).webm 
+   67  ls
+   68  wpp
+   69  wpp hola.ppt
+   70  wpp expoPSO.pptx 
+   71  yum search wps
+   72  yum -y install wps
+   73  sudo su
+   74  exit
+   75  sudo su
+   76  ping www.hola.com
+   77  ./sublime_text
+   78  chmod +x sublime_text
+   79  ./sublime_text 
+   80  sudo su
+   81  rm -rf septimo/
+   82  sudo su
+   83  ./sublime_text 
+   84  rm -rf persona.php 
+   85  rm -rf TipoContrato
+   86  rm -rf codex-cuphead/
+   87  ping www.hola.com
+   88  exit
+   89  sudo su
+   90  rm -rf Interfaces/
+   91  touch hola.php
+   92  sudo su
+   93  exit
+   94  sudo su
+   95  ./sublime_text 
+   96  exit
+   97  ping www.hola.com
+   98  ./sublime_text 
+   99  reboot
+  100  exit
+  101  ping www.hola.com
+  102  sudo su
+  103  ping www.hola.com
+  104  sudo su
+  105  exit
+  106  rm -rf 4d0b3\ Ph0t0Sh0p\ CS6/
+  107  sudo rm -rf 4d0b3\ Ph0t0Sh0p\ CS6/
+  108  sudo su
+  109  exit
+  110  sudo su
+  111  ./sublime_text 
+  112  sudo su
+  113  exit
+  114  sudo su
+  115  exit
+  116  chmod 777 *
+  117  php -v
+  118  mysql -u root -p
+  119  rm -rf Docente2.php 
+  120  rm -rf formularios.css 
+  121  ping www.hola.com
+  122  sudo su
+  123  ./sublime_text 
+  124  sudo su
+  125  ./sublime_text 
+  126  sido su
+  127  sudo su
+  128  rm -rf *
+  129  exit
+  130  ./sublime_text 
+  131  exit
+  132  ./sublime_text 
+  133  exit
+  134  rm -rf img/
+  135  rm -rf rompecabezas-transparente-8179182*
+  136  ./sublime_text 
+  137  cd /opt/kingsoft/wps-office/office6/dicts/
+  138  sudo wget http://wps-community.org/download/dicts/es_ES.zip
+  139  sudo unzip es_ES.zip 
+  140  sudo su
+  141  bluetoothctl 
+  142  clear
+  143  top
+  144  exit
+  145  bluetoothctl 
+  146  clear
+  147  exit
+  148  write hola.odt
+  149  openoffice.org hola.odt
+  150  openoffice.org hola.odt&
+  151  openoffice.org&
+  152  exit
+  153  sudo su
+  154  ./sublime_text 
+  155  chmod +x ApagarServiciosWeb.sh 
+  156  chmod +x IniciarServiciosWeb.sh 
+  157  ./IniciarServiciosWeb.sh 
+  158  ./ApagarServiciosWeb.sh 
+  159  ./IniciarServiciosWeb.sh 
+  160  ./ApagarServiciosWeb.sh 
+  161  rm -rf Apache_OpenOffice_4.1.4_Linux_x86-64_install-rpm_es
+  162  exit
+  163  rm -rf Apache_OpenOffice_4.1.4_Linux_x86-64_install-rpm_es\(1\)
+  164  rm -rf basura/
+  165  sudo su
+  166  cp -r /home/maronvz64/Documentos/sublime_text_3_build_3143_x64\(1\)/septimoPracticas_min /var/www/html/
+  167  sudo su
+  168  ./IniciarServiciosWeb.sh 
+  169  ./sublime_text 
+  170  chmod 777 septimoPracticas_min/
+  171  sudo su
+  172  ./IniciarServiciosWeb.sh 
+  173  sudo su
+  174  chmod 777 *.*
+  175  sudo su 
+  176  ./sublime_text 
+  177  ./sublime_text 
+  178  rm -rf *.php
+  179  rm -rf *
+  180  rm -rf hola.php 
+  181  sudo su
+  182  ./sublime_text 
+  183  ./sublime_text&
+  184  rm -rf instanciasBD/
+  185  sudo su
+  186  exit
+  187  ./ApagarServiciosWeb.sh 
+  188  rm -rf basura/
+  189  ./IniciarServiciosWeb.sh 
+  190  ./sublime_text_3/
+  191  ./sublime_text_3
+  192  touch 
+  193  touch hola.html
+  194  ./sublime_text 
+  195  sudo su
+  196  youtube-dl https://www.youtube.com/watch?v=iU3WnZHWppg
+  197  youtube-dl https://www.youtube.com/watch?v=Hzw7rhF-Io4
+  198  chmod +x NetLogo
+  199  ./NetLogo
+  200  exit
+  201  sudo su
+  202  yum clean 
+  203  yum clean all
+  204  rpm update
+  205  eit
+  206  exit
+  207  yum clean all
+  208  rpm -help
+  209  rpm -h
+  210  help rpm
+  211  man -k rpm
+  212  exit
+  213  bluetoothctl 
+  214  ping www.google.com
+  215  top
+  216  kill 14004
+  217  kill 13884
+  218  top
+  219  firefox www.animeyt.tv
+  220  firefox www.animeyt.tv&
+  221  ./IniciarServiciosWeb.sh 
+  222  touch autorun.inf
+  223  rm -rf autorun.inf 
+  224  rm -rf pato.ico 
+  225  ifconfig 
+  226  sudo su
+  227  eit
+  228  exit
+  229  ifconfig
+  230  yum -y remove tuxcut
+  231  sudo su
+  232  help systemctl
+  233  man -k systemctl
+  234  info systemctl
+  235  rm -rf Nuevo.iso 
+  236  sudo su
+  237  git init 
+  238  git add .
+  239  exit
+  240  ls
+  241  clear 
+  242  cd gitProyect/
+  243  exit
+  244  sudo su
+  245  mkdir gitProyectos
+  246  cd gitProyectos/
+  247  touch index.html
+  248  git init
+  249  git add .
+  250  git commit -m "ggg"
+  251  git remote add origin https://github.com/maronv64/practicaGit3.git
+  252  git push -u origin master
+  253  git init
+  254  git add .
+  255  git commit -m "hola"
+  256  git branch rama1Continuacion
+  257  git checkout rama1Continuacion 
+  258  git branch -v
+  259  git commit -m "hola"
+  260  git add .
+  261  git commit -m "holadsd"
+  262  git add .
+  263  git commit -m "holdsdsd
+  264  git commit -m "holdsdsd"
+  265  git branch -v
+  266  git checkout rama1Continuacion 
+  267  git add .
+  268  git commit -m "holdsdsdsdsd"
+  269  git checkout master 
+  270  git branch rama1Continuacion 
+  271  pushd 
+  272  git branch -v
+  273  git checkout rama1Continuacion 
+  274  git branch -v
+  275  git add .
+  276  pushd 
+  277  git add .
+  278  git commit -m "hol"
+  279  git branch -v
+  280  git push -u origin rama1Continuacion 
+  281  git branch master 
+  282  git checkout master 
+  283  git push 
+  284  sudo su
+  285  ls
+  286  youtube-dl https://www.youtube.com/watch?v=YitPBKcscqg
+  287  sudo su
+  288  ifconfig
+  289  ./sublime_text 
+  290  ./IniciarServiciosWeb.sh 
+  291  rm -rf Silvestre\ Dangond\ -\ Niégame\ Tres\ Veces.mp3 
+  292  rm -rf Inuyashiki\ AMV\ -\ Save\ Me.mp4 
+  293  rm -rf SI\ TE\ RÍES\ PIERDES\ \(555_\ IMPOSIBLE\)\ --\ THE\ YOLO.mp4 
+  294  rm -rf Trata\ no\ reír\ \ -\ Nivel-Dios.mp4 
+  295  cd ..
+  296  cd Documentos/
+  297  cd ..
+  298  ls
+  299  ./ApagarServiciosWeb.sh 
+  300  youtube-dl https://www.youtube.com/watch?v=7M8WmzNiQQM
+  301  sudo su
+  302  exit
+  303  ./sublime_text 
+  304  rpm --qa gpg-pubkey*
+  305  sudo su
+  306  git clone https://github.com/k4m4/kickthemout.git
+  307  cd kickthemout/
+  308  sudo python -m pip install -r requirements.txt
+  309  python kickthemout.py
+  310  sudo su
+  311  ifconfig
+  312  cd kickthemout/
+  313  sudo su
+  314  cd ..
+  315  sudo su
+  316  ls
+  317  youtube-dl https://www.youtube.com/watch?v=t68vc9DGxhg&t=6s
+  318  git init 
+  319  git add .
+  320  git commit -m "ambiente de trabajo"
+  321  git branch develop
+  322  git checkout develop 
+  323  git add .
+  324  git commit -m "cambio1-index"
+  325  git add .
+  326  git commit -m "cambio1-index-negro"
+  327  git branch 
+  328  git log --oneline 
+  329  gitk
+  330  git checkout master 
+  331  git log
+  332  git add .
+  333  git commit -m "cambio1-index-negro-u"
+  334  git checkout master 
+  335  git merge develop 
+  336  git gitk&
+  337  gitk&
+  338  git clone https://github.com/SindyVergara/PaginaGrupal.git
+  339  ls
+  340  cd ..
+  341  git clone https://github.com/SindyVergara/PaginaGrupal.git
+  342  cd PaginaGrupal/
+  343  git branch Cards-maron
+  344  git checkout Cards-maron 
+  345  git add .
+  346  git commit -m "Cars-maron-v1"
+  347  git checkout master 
+  348  git merge Cards-maron 
+  349  git pull 
+  350  git log 
+  351  git add .
+  352  git commit -m "holaquehaces"
+  353  git log 
+  354  git branch -v
+  355  git merge Cards-maron 
+  356  git push 
+  357  sudo su
+  358  ./IniciarServiciosWeb.sh 
+  359  ./sublime_text 
+  360  sudo python kickthemout.py 
+  361  exit
+  362  iwconfig
+  363  ifconfig 
+  364  exit
+  365  touch index.html
+  366  cd /
+  367  ls
+  368  cd etc/httpd/
+  369  cd logs/
+  370  ls
+  371  nano error_log
+  372  rm -rf *
+  373  rm -rf Aho\ Girl\ 1*
+  374  rm -rf Passengers.2016.1080p-dual-lat.mp4 
+  375  rm -rf Cuestión\ De\ Tiempo\ Película\ Completa\ En\ Español\ Latino.avi 
+  376  rm -rf Las\ bromas\ de\ House\ xD-iU3WnZHWppg.webm 
+  377  rm -rf Videos-Descargados/
+  378  rm -rf piratasdelCaribe.VOB 
+  379  rm -rf VTS_01_1.VOB 
+  380  rm -rf La\ Maquina\ \ \ PELICULA\ COMPLETA\ EN\ ESPAÑOL\ LATINO.mp4 
+  381  rm -rf *.vob
+  382  rm -rf *
+  383  ./IniciarServiciosWeb.sh 
+  384  exit
+  385  sudo su
+  386  sudo su
+  387  exit
+  388  rm -rf CupCho/
+  389  rm -rf "5 (1).mp4" 
+  390  rm -rf 492.mp4 
+  391  rm -rf Dokara\ boku-ha\ H\ ga\ Dekinai/
+  392  nautilus
+  393  nautilus-sendto 
+  394  nautilus-desktop 
+  395  exit
+  396  shutdown -H
+  397  shutdown -h
+  398  shutdown -h now
+  399  touch autorun.inf
+  400  python kickthemout.py 
+  401  sudo su
+  402  exit
+  403  python kickthemout.py 
+  404  sudo su
+  405  sudo su
+  406  iwconfig 
+  407  ifconfig 
+  408  rm -rf ESET/
+  409  rm -rf ESET\ NOD32\ Antivirus\ 8.0/
+  410  rm -rf No\ Manches\ Frida/
+  411  rm -rf LaChicaLiteraria/
+  412  rm -rf 000*
+  413  rm -rf IMG-20171106-WA000*
+  414  rm -rf Ben\ 10\ Protector\ Of\ Earth\ \[English\]\[PSP\]\[WwW.GamesTorrents.CoM\]/
+  415  shutdown -h now
+  416  git init 
+  417  git add .
+  418  git commit -m "Inicio"
+  419  git remote add origin https://github.com/maronv64/holaquehaces.git
+  420  git push -u origin master
+  421  touch index.html
+  422  git push -u origin master
+  423  git status 
+  424  git add .
+  425  git push -u origin master
+  426  git commit "Inicio"
+  427  git commit -m "Inicio"
+  428  git remote add origin https://github.com/maronv64/holaquehaces.git
+  429  git push -u origin master
+  430  git init 
+  431  git add .
+  432  git commit -m "Inincio"
+  433  git remote add origin https://github.com/maronv64/holaquehaces.git
+  434  cd ..
+  435  git remote add origin https://github.com/maronv64/holaquehaces.git
+  436  cd hola/
+  437  git init 
+  438  git remote add origin https://github.com/maronv64/holaquehaces.git
+  439  git push -u origin master
+  440  git add .
+  441  git push -u origin master
+  442  git commit -m "Inicio"
+  443  git push -u origin master
+  444  cd ..
+  445  touch autorun.inf
+  446  rm -rf autorun.inf 
+  447  ls
+  448  chown $USER:$USER
+  449  chown --help 
+  450  chown -hR maronvz64 
+  451  chown -hR maronvz64 /*
+  452  touch desktop.ini
+  453  gedit desktop.ini&
+  454  exit
+  455  rm -rf pato.ico 
+  456  youtube-dl https://www.youtube.com/watch?v=G5OUnFa1688
+  457  shutdown -R now
+  458  shutdown -r now
+  459  rm -rf none.jpg 
+  460  rm -rf sasha_grey_by_mapontocom-day.jpg 
+  461  rm -rf uguXk2.jpg 
+  462  rm -rf elpato/
+  463  chown $USER:$USER proyectoweb/
+  464  rm -rf elpato/
+  465  chown $USER:$USER proyectoweb/*
+  466  rm -rf elpato/
+  467  chmod +x proyectoweb/
+  468  chmod 777 proyectoweb
+  469  rm -rf elpato/
+  470  sudo su 
+  471  rm -rf elpato/
+  472  sudo su
+  473  exit
+  474  sudo su
+  475  git init 
+  476  git add .
+  477  git commit -m "Inicio"
+  478  clear 
+  479  git log --oneline | cat
+  480  git status 
+  481  git branch develop
+  482  git checkout develop 
+  483  git status 
+  484  git log --oneline | cat
+  485  git branch -v
+  486  git commit -m "la funcion $doc->update funciona"
+  487  git add .
+  488  git commit -m "la funcion $doc->update funciona"
+  489  git log --oneline | cat
+  490  git add .
+  491  git commit -m "archivo DocenteUpdate.php funciona"
+  492  git log --oneline | cat
+  493  git log
+  494  git commit -m "funciona Actualizar"
+  495  git add .
+  496  git commit -m "funciona Actualizar"
+  497  git add .
+  498  git commit -m "Fin"
+  499  git branch master 
+  500  git merge develop 
+  501  git push 
+  502  git log 
+  503  git branch 
+  504  git branch master 
+  505  git checkout master 
+  506  git merge develop 
+  507  git push 
+  508  git branch 
+  509  gitk
+  510  git remote add origin https://github.com/maronv64/proyectoweb.git
+  511  git push -u origin master
+  512  history >> githistory.txt

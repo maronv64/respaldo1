@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Practica ajax</title>
+	  <!-- Bootstrap Core CSS -->
+          <link href="css/bootstrap.min.css" rel="stylesheet">
+
+          <!-- 
+          <link href="css/sb-admin.css" rel="stylesheet">
+Custom CSS -->
+          <!-- Morris Charts CSS -->
+          <link href="css/plugins/morris.css" rel="stylesheet">
+
+          <!-- Custom Fonts -->
+          <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div>
+ <input id="nuevo" onclick="cargarPersona()" type="button" value="CARGAR DATOS"  class="btn btn-success">
+</div>
+<table>
+	<thead>
+                    <tr><th>Codigo</th><th>Identificaci&oacute;n</th><th>Nombre</th><th>Apellido</th><th>Usuario</th> <th>Fecha Nac.</th> <th colspan="2">Acciones</th>   </tr> 
+                  </thead>
+                  <tbody id ="tablaDatos"></tbody>
+
+</table>
+
+        <!-- 
+        <script src="js/procesos/peticion.js"></script>persona.js -->
+
+                <!-- persona.js -->
+        <script src="js/procesos/interaccionajax.js"></script>
+
+        <!-- jQuery -->
+        <script src="js/jquery.js"></script>
+</body>
+</html>

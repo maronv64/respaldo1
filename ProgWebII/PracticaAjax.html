@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Practica Ajax</title>
+  <meta charset="utf-8">
+<!-- Bootstrap core CSS-->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom fonts for this template-->
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <!-- Page level plugin CSS-->
+  <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+  <!-- Custom styles for this template-->
+  <link href="css/sb-admin.css" rel="stylesheet">
+
+    <link href="css/plugins/morris.css" rel="stylesheet">
+
+</head>
+<body onload="MostarTipoIns()">
+
+  <li class="nav-item">
+          <form class="form-inline my-2 my-lg-0 mr-lg-2">
+            <div class="input-group">
+              <input  id="Buscar"  class="form-control" type="text" placeholder="Buscar">
+              <span class="input-group-btn">
+                <button onclick="BuscarLike()" class="btn btn-primary" type="button">
+                  <i class="fa fa-search"></i>
+                </button>
+              </span>
+            </div>
+          </form>
+        </li>
+    <div class="content-wrapper" ">
+    <div class="container-fluid ">
+      <!-- Breadcrumbs-->
+      <ol class="breadcrumb"  style="background: #434;" >
+        <li class="breadcrumb-item">
+          <a href="#">Instituci&oacute;n</a>
+        </li>
+        <li class="breadcrumb-item active">Nuevo</li>
+      </ol>
+      <!-- este es el formulario-->
+    <div class="card  mx-auto mt-7">
+      <div class="card-body">
+        <form>
+          
+          <div class="form-group">
+             <div class="col-md-12">
+                <input class="form-control" type="text" aria-describedby="nameHelp" placeholder="Id Institucion" required id ="IdInstitucion" disabled="">
+              </div>
+             <div class="col-md-12">
+                <input  class="form-control"  type="text" aria-describedby="nameHelp" placeholder="Instituci&oacute;n" required id="Nombre">
+              </div><br>
+
+               <div class="col-md-12">
+                <input class="form-control"  type="text" aria-describedby="nameHelp" placeholder="Ubicación" required id="Ubicacion">
+              </div><br>
+
+               <div class="col-md-12">
+                <input class="form-control"  type="text" aria-describedby="nameHelp" placeholder="Código" required id="Codigo">
+              </div><br>
+
+              <div class="col-md-12">
+                <input class="form-control"  type="text" aria-describedby="nameHelp" placeholder="Rector" required id="NomRector">
+              </div><br>
+
+              <div class="col-md-12">
+                <input class="form-control"  type="text" aria-describedby="nameHelp" placeholder="Teléfono" required id="Telefono">
+              </div>
+
+              <div class="col-md-12">
+                <select class="form-control" id="select">
+                  
+                </select>
+              </div>
+
+
+
+           
+          </div>
+          <input  onclick="InsertarInstitucion()" name="bt1" value="Guardar" class="btn btn-block btn-primary">
+          
+        </form>
+      </div>
+    </div><br>
+     
+
+
+<div>
+ <input id="nuevo" onclick= "MostrarInstitucion()" type="button" value="CARGAR DATOS"  class="btn btn-success">
+</div>
+<table >
+	<thead >
+                    <tr><th>Idenfiticaci&oacute;n Instituci&oacute;n</th><th>Codigo</th><th>Nombre</th><th>Ubicaci&oacute;n</th><th>Nombre Rector</th> <th>Telefono</th> <th colspan="2">Acciones</th>   </tr> 
+                  </thead>
+                  <tbody id ="tablaDatos"></tbody>
+
+</table>
+
+        <!-- 
+        <script src="js/procesos/peticion.js"></script>Institucion.js -->
+
+                <!-- Institucion.js -->
+        <script src="js/procesosJs/InteraccionInstitucion.js"></script>
+
+        <!-- jQuery -->
+        <script src="js/jquery.js"></script>
+</body>
+</html>
